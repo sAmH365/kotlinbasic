@@ -75,7 +75,7 @@ fun checkNum(score:Int) {
 // Array: 처음 할당해준 크기만 사용가능
 // List
 //  1. 변경불가한 List
-//  2. 변경가능한 MutableList(ex:arrayList)
+//  2. 변경가능한 MutableList, arrayList
 fun array() {
     // 초기화
     val array = arrayOf(1,2,3)
